@@ -1,0 +1,15 @@
+
+
+/* Estilização Aba de Navegação (navbar) */
+.navbar .navbar-brand img{
+    width: 50px;
+}
+
+/* Estilo da DIV a onde o resultado será impresso. */
+#divR{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+}
